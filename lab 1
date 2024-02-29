@@ -1,0 +1,8 @@
+import numpy as np
+
+#1. Create a rank 2 (2D) array that resembles the matrix below.
+# Create the array
+matrix = np.array([[11, 12, 13, 14],
+                   [15, 16, 17, 18]])
+
+print(matrix)
